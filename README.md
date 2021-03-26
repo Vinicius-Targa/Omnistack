@@ -1,2 +1,2 @@
-# Omnistack
-Backend, Frontend web e mobile feitos no curso da semana Omnistack
+# Omnistack-Testes
+Código dos Testes automatizados realizados nos artefatos da semana omnistack, usando o CukeTest
